@@ -1,3 +1,3 @@
-import BudgetTracker from "./BudgetTracker";
+import BT from "./BudgetTracker.js";
 
-new BudgetTracker("#app");
+new BT("#app");
